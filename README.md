@@ -1,5 +1,7 @@
 # Linear Media Player
 
+music player app in coded react and typescript.
+
 <!-- project screenshots -->
 
 ![project screenshot 1](./screenshots/Screenshot-1.png)
