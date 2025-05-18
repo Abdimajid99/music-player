@@ -1,6 +1,6 @@
 # Linear Media Player
 
-music player app in coded react and typescript.
+music player app coded in react and typescript.
 
 <!-- project screenshots -->
 
@@ -22,9 +22,11 @@ npm install
 npm run dev
 ```
 
+<!-- 
 ### Attribution
 
 This project includes music from the following albums:
 
 - **"Deep House"** by _Nul Tiel Records_ is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 - **"Neither and Both"** by _Brylie Christopher Oxley_ is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+-->
